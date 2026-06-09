@@ -1,0 +1,86 @@
+#######################################
+# KisleyIrisStretcher syntax highlighting
+#######################################
+
+#######################################
+# Classes (KEYWORD1)
+#######################################
+
+IrisStretcher	KEYWORD1
+IrisMenuUI	KEYWORD1
+IrisSerialConsole	KEYWORD1
+IrisGeometry	KEYWORD1
+IrisStepperDriver	KEYWORD1
+IrisKinematics	KEYWORD1
+IrisStrainNAU7802	KEYWORD1
+IrisStrainArray	KEYWORD1
+IrisExperiment	KEYWORD1
+IrisExperimentRunner	KEYWORD1
+
+#######################################
+# Methods (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+gotoExpansion	KEYWORD2
+goToZero	KEYWORD2
+setZeroHere	KEYWORD2
+calibrate	KEYWORD2
+setBladeSpeed	KEYWORD2
+rotateThetaRadians	KEYWORD2
+currentSteps	KEYWORD2
+currentTheta	KEYWORD2
+computeEx	KEYWORD2
+findTheta	KEYWORD2
+onEachStep	KEYWORD2
+setStepLogging	KEYWORD2
+setCalibrationRoutine	KEYWORD2
+setInvertEncoder	KEYWORD2
+setUseInternalPulldown	KEYWORD2
+setEchoCommands	KEYWORD2
+registerMenuItem	KEYWORD2
+registerCommand	KEYWORD2
+readVolts	KEYWORD2
+printBanner	KEYWORD2
+acquireRow	KEYWORD2
+tare	KEYWORD2
+rescan	KEYWORD2
+printCsvHeader	KEYWORD2
+printCsvRow	KEYWORD2
+printCsvHeaderTrailing	KEYWORD2
+printCsvRowTrailing	KEYWORD2
+printStatus	KEYWORD2
+adcCount	KEYWORD2
+registerExperiment	KEYWORD2
+attachRunner	KEYWORD2
+attachStrain	KEYWORD2
+attachUi	KEYWORD2
+showLcdMessage	KEYWORD2
+refresh	KEYWORD2
+requestRun	KEYWORD2
+requestRunByName	KEYWORD2
+requestAbort	KEYWORD2
+isRunning	KEYWORD2
+isHolding	KEYWORD2
+currentExperiment	KEYWORD2
+currentStepIndex	KEYWORD2
+currentTargetEx	KEYWORD2
+setStreamStrain	KEYWORD2
+isStreamingStrain	KEYWORD2
+emitRow	KEYWORD2
+setMotionLogPeriodMs	KEYWORD2
+setMotionLogEveryNSteps	KEYWORD2
+motionLogEveryNSteps	KEYWORD2
+applySampleRateLive	KEYWORD2
+sampleRate	KEYWORD2
+setHoldLogPeriodMs	KEYWORD2
+setHoldMs	KEYWORD2
+setLayout	KEYWORD2
+setI2cClock	KEYWORD2
+setSignalAveraging	KEYWORD2
+setTareSamples	KEYWORD2
+setSampleTimeoutMs	KEYWORD2
+setSampleRate	KEYWORD2
+setMuxSettleMicros	KEYWORD2
+setWaitForReadyOnRead	KEYWORD2
