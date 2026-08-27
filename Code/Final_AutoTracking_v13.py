@@ -1,4 +1,4 @@
-'''Feature tracking and autofocus for ExM'''
+'''Feature tracking and autofocus algorithm for TExM'''
 ''' 
 07/29/2025 - Add functions to collect multiple FOV after each tracking step
 12/10/2025 - updated with different z-scan range for each 0.5x expansion
